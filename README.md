@@ -1,4 +1,4 @@
 # portfolio
 
 
-![](portfio.gif)
+![](portfolio.gif)

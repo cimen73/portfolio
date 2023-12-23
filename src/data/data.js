@@ -1,4 +1,4 @@
-import MusicPlayer from '../assets/projects/musicplayer.PNG'
+
 import Burger from '../assets/projects/burgerproject.PNG'
 import Car from '../assets/projects/carproject.PNG'
 import PriceLotsize from '../assets/projects/price-lotsizee.png'
